@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'vACDM',
   tagline: 'virtual Airport Collaborative Decision Making',
-  favicon: 'img/cdm_logo_no_text.png',
+  favicon: 'img/icon.png',
 
   // Set the production url of your site here
   url: 'https://vacdm.net',
@@ -67,7 +67,7 @@ const config = {
         title: 'vACDM',
         logo: {
           alt: 'vACDM Logo',
-          src: 'img/cdm_logo_no_text.png',
+          src: 'img/icon.png',
         },
         items: [
           {
